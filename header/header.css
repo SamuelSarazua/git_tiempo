@@ -1,3 +1,31 @@
 .header{
-    color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.git {
+    background-color: rgb(245, 209, 143);
+    color: white;
+    border-radius: 100%;
+    padding: 0.8rem 0.3rem;
+}
+
+
+
+.titulo {
+
+
+}
+
+.btn-github {
+    text-decoration: none;
+    background-color: rgb(20, 4, 94);
+    color: white;
+    font-weight: 600;
+    padding: 0.5rem 2rem;
+    border-radius: 3px;
+
 }
